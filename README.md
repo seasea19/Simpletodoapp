@@ -12,7 +12,7 @@ Time spent: **15** hours spent in total
 The following **required** functionality is completed:
 
 * [] User can **view a list of todo items**
-* [] User can **successfully add** from the todo list
+* [] User can **successfully add and remove** from the todo list
 * [] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 
@@ -24,4 +24,4 @@ https://imgur.com/a/vY4JHDo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was to make the codes work cause I kept making mistakes and they weren't working. Another challenge I had was to push the codes in Github. It kept giving me error message, I had to generate a token for it to be able to be push here.
