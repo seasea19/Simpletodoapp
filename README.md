@@ -11,9 +11,9 @@ Time spent: **15** hours spent in total
 
 The following **required** functionality is completed:
 
-* [v] User can **view a list of todo items**
-* [v] User can **successfully add** from the todo list
-* [v ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [] User can **view a list of todo items**
+* [] User can **successfully add** from the todo list
+* [] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 
 ## Video Walkthrough
